@@ -1,5 +1,5 @@
 body {
-    background-color: #1b1515;
+    background-color: #332c2c;
     color: #f4f4f4;
 }
 
@@ -13,4 +13,10 @@ h1, h2 {
 
 a {
     color:#00ffff;
+}
+.mars-intro {
+    color:#d40e0e;
+}
+.earth-intro {
+    color:green;
 }
